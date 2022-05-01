@@ -1,0 +1,42 @@
+.navbar-title {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #667eea;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(102, 126, 234, 0.5), rgba(118, 75, 162, 0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(102, 126, 234, 0.5), rgba(118, 75, 162, 0.5))
+  }
+
+.search-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.line {
+    color: black;
+        border: none;
+        height: 10px;
+        background: linear-gradient(-135deg, #fff 5px, transparent 0) 0 5px, linear-gradient(135deg, #fff 5px, #8c8c8c 0) 0 5px;
+        background-color: #fff;
+        background-position: left bottom;
+        background-repeat: repeat-x;
+        background-size: 10px 10px;
+}
+
+.city-name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.forecast-date {
+    font-size: 18px;
+}
+
