@@ -5,6 +5,6 @@ Everytime a search is done it will be saved and be able to be clicked in to get 
 
 Below is a screenshot of the final product. <br/> <br />
 
-![Weather Dashboard](assets/images/weather-dashboard.JPG)
+![Weather Dashboard](./Assets/images/weather-dashboard.JPG)
 
 Visit the live page: [Lets go to Weather Dashboard!](https://ticonetster.github.io/weather-dashboard/)
